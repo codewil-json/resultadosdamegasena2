@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkresultados_mega_sena"]=self["webpackChunkresultados_mega_sena"]||[]).push([[505],{505(t,e,n){n.r(e),n.d(e,{default:()=>m});var s=n(641);const a={class:"container mt-5"};function o(t,e,n,o,r,u){const l=(0,s.g2)("LotteryResult"),c=(0,s.g2)("MainFooter");return(0,s.uX)(),(0,s.CE)(s.FK,null,[(0,s.Lk)("main",a,[(0,s.bF)(l,{lottery:"lotomania"})]),(0,s.bF)(c)],64)}var r=n(393),u=n(407);const l={components:{LotteryResult:r.A,MainFooter:u.A}};var c=n(262);const i=(0,c.A)(l,[["render",o]]),m=i}}]);
+//# sourceMappingURL=505.f7d95010.js.map
